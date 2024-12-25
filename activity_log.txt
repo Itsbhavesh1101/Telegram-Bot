@@ -20,3 +20,4 @@
 [2024-12-21T18:36:03] Initial Setup & Repository Structuring - Initialize telegram bot repository, set up folder structure for handlers and APIs. (Commit 9/11)
 [2024-12-21T19:48:02] Initial Setup & Repository Structuring - Initialize telegram bot repository, set up folder structure for handlers and APIs. (Commit 10/11)
 [2024-12-21T21:00:19] Initial Setup & Repository Structuring - Initialize telegram bot repository, set up folder structure for handlers and APIs. (Commit 11/11)
+[2024-12-25T09:00:34] Initial Setup & Repository Structuring - Set up local polling and configure webhook settings for deploy environments. (Commit 1/4)
